@@ -1,9 +1,18 @@
-##install this project
+## My Electron-React-App (Boilerplate)
+###### Last update: 23.03.2023
 
-use Node 16.13.0
+## Setups
+Node version: 16.13.0
+
+## Run
+- run electron: npm run-electron-react
+- run react: npm run start
+
+## Build
+- npm build electron-react
 
 
-##Create new Electron react.
+## Create a complete new Electron React.
 
 install node 16.13.0
 
