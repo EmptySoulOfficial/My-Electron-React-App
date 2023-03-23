@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import pck from '../package.json'
+import DemoContent from './components/content/DemoContent/DemoContent'
+import TitleBar from './components/modules/TitleBar/TitleBar';
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TitleBar />
+      <div className="App-Container">
+        <DemoContent packageversion={pck.version} />
+      </div>
     </div>
   );
 }

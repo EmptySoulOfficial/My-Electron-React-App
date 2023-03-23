@@ -1,0 +1,9 @@
+{"de":{
+  "test": "TestText Deutsch",
+  "reactboilerplate": "Meine Electron App"  
+ },
+ "en":{
+  "test": "Testtext English",
+  "reactboilerplate": "My Electron App" 
+  }
+}

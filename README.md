@@ -11,7 +11,6 @@ Node version: 16.13.0
 ## Build
 - npm build electron-react
 
-
 ## Create a complete new Electron React.
 
 install node 16.13.0
