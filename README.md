@@ -1,5 +1,10 @@
-## My Electron-React-App (Boilerplate)
+## My Electron-React-App (Boilerplate-NOT USABLE KNOW)
 ###### Last update: 23.03.2023
+
+## !! webpack fs/electron remote has to be fixed !!
+- Fix Title Bar
+
+![Alt text](./readme_files/electron-react-image.png?raw=true "Title")
 
 ## Setups
 Node version: 16.13.0
